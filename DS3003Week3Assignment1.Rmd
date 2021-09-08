@@ -1,0 +1,11 @@
+---
+title: "DS3003Week3Assignment1"
+author: "Madeleine Jones"
+date: "9/8/2021"
+output: html_document
+---
+
+```{r}
+print("I'm Learning to Use Github...Boom")
+```
+
